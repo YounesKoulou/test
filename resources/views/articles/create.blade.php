@@ -17,6 +17,12 @@
 
 
 <div class="row">
+	<col-md-12>
+		<h2>allali youssef derri zwiwenn</h2>
+	</col-md-12>
+</div>
+
+<div class="row">
 	<div class="col-md-12">
 		<h1>Page create - AUTHOR: Hicham</h1>
 		 
