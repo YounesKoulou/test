@@ -16,6 +16,12 @@
 
 <div class="row">
 	<div class="col-md-12">
+		<h1>Lorem ipsum dolor sit amet. </h1>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-md-12">
 		<h1>Page create</h1>
 		 
 		 {!! Form::open(['url' => URL::to('articles'), 'method' => 'post']) !!}
