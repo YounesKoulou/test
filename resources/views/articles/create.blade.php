@@ -14,9 +14,11 @@
 </div>
 @endif
 
+
+
 <div class="row">
 	<div class="col-md-12">
-		<h1>Page create</h1>
+		<h1>Page create - AUTHOR: Nabil</h1>
 		 
 		 {!! Form::open(['url' => URL::to('articles'), 'method' => 'post']) !!}
 		 <div class="form-group">
