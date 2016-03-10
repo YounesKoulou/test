@@ -15,6 +15,9 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('/git', function () {
+    return view('okey');
+});
 
 Route::get('genererCommentaire', function(){
     
